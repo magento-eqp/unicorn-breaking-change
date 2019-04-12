@@ -12,5 +12,8 @@ namespace Unicorn\MagicUpdateDemo\Model;
  */
 class BreakingEverythingUnicorn
 {
-
+    public function __construct()
+    {
+        echo 'Major release!';
+    }
 }

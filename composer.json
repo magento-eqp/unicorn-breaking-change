@@ -1,6 +1,6 @@
 {
     "name": "unicorn/module-breaking-change-demo",
-    "version": "2.0.0",
+    "version": "3.0.0",
     "description": "Awesome unicorns show breaking changes!",
     "config": {
         "sort-packages": true
